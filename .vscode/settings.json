@@ -1,0 +1,4 @@
+{
+	"deno.enable": true,
+	"typescript.tsdk": "/home/k/.nvm/versions/node/v12.18.1/lib/node_modules/typescript/lib"
+}
